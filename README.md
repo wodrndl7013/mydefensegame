@@ -14,9 +14,6 @@ Unity 기초 강의 기반으로 만든 디펜스형 게임입니다.
 2. Unity에서 열기
 3. Play 테스트 가능
 
-## 스크린샷 / GIF
-![게임 화면](assets/defense.gif)
-
 ## 기술 스택
 - Unity 3D, C#
 - GitHub
