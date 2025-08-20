@@ -1,6 +1,26 @@
 # MyDefenseGame
 
-[타워디펜스 시연영상](https://youtu.be/EW-eH6k-8wM)
+[![시연 영상](https://img.youtube.com/vi/EW-eH6k-8wM/0.jpg)](https://www.youtube.com/watch?v=EW-eH6k-8wM)
+
+Unity 기초 강의 기반으로 만든 디펜스형 게임입니다.
+
+## 주요 기능
+- 타일 클릭 시 타워 설치
+- 범위 내 적 감지 & 반응
+- 기본 공격 루프 구현
+
+## 실행 방법
+1. 2022.3.30f1에서 실행가능
+2. Unity에서 열기
+3. Play 테스트 가능
+
+## 스크린샷 / GIF
+![게임 화면](assets/defense.gif)
+
+## 기술 스택
+- Unity 3D, C#
+- GitHub
+
 
 ## Getting started
 
